@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Orozco/static/css/main.b48dcc43.chunk.css",
+    "main.js": "/Orozco/static/js/main.69b8315d.chunk.js",
+    "main.js.map": "/Orozco/static/js/main.69b8315d.chunk.js.map",
+    "runtime-main.js": "/Orozco/static/js/runtime-main.03107487.js",
+    "runtime-main.js.map": "/Orozco/static/js/runtime-main.03107487.js.map",
+    "static/js/2.909b7aae.chunk.js": "/Orozco/static/js/2.909b7aae.chunk.js",
+    "static/js/2.909b7aae.chunk.js.map": "/Orozco/static/js/2.909b7aae.chunk.js.map",
+    "index.html": "/Orozco/index.html",
+    "static/css/main.b48dcc43.chunk.css.map": "/Orozco/static/css/main.b48dcc43.chunk.css.map",
+    "static/js/2.909b7aae.chunk.js.LICENSE.txt": "/Orozco/static/js/2.909b7aae.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.03107487.js",
+    "static/js/2.909b7aae.chunk.js",
+    "static/css/main.b48dcc43.chunk.css",
+    "static/js/main.69b8315d.chunk.js"
+  ]
+}
