@@ -38,10 +38,10 @@ export default function Intro() {
               {" "}
               <LinkedIn className="icons-i" />{" "}
             </a>
-            <a href="https://www.youtube.com/channel/UCgR2CZLCClCdTeo_l5W53eQ" target="_blank">
+            {/* <a href="https://www.youtube.com/channel/UCgR2CZLCClCdTeo_l5W53eQ" target="_blank">
               {" "}
               <YouTube className="icons-i" />
-            </a>
+            </a> */}
 
             <a href="https://github.com/corozco6489" target="_blank">
               {" "}
