@@ -20,7 +20,7 @@ export default function Intro() {
     <div className="intro" id="intro">
       <div className="left">
         <div className="imgContainer">
-          <img src="assets/user2.png" alt="" />
+          <img src="assets/user.png" alt="" />
         </div>
       </div>
       <div className="right">
@@ -31,19 +31,19 @@ export default function Intro() {
           Electronic <span ref={textRef}></span>
           </h3>
           <div className="links">
-            <a href="https://wa.me/5930983592690" target="_blank">
+            <a href="https://www.whatsapp.com/" target="_blank">
               <WhatsApp className="icons-i" />
             </a>
-            <a href="https://www.linkedin.com/in/carlos-orozco-64892021/" target="_blank">
+            <a href="https://www.linkedin.com/" target="_blank">
               {" "}
               <LinkedIn className="icons-i" />{" "}
             </a>
-            {/* <a href="https://www.youtube.com/channel/UCgR2CZLCClCdTeo_l5W53eQ" target="_blank">
+            <a href="https://www.youtube.com/" target="_blank">
               {" "}
               <YouTube className="icons-i" />
-            </a> */}
+            </a> 
 
-            <a href="https://github.com/corozco6489" target="_blank">
+            <a href="https://github.com" target="_blank">
               {" "}
               <GitHub className="icons-i" />
             </a>
